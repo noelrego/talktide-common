@@ -1,0 +1,17 @@
+{
+  "name": "@nn-rego/talktide-common",
+  "version": "1.0.0",
+  "description": "Common Package for chat application",
+  "main": "index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "TALKTIDE"
+  ],
+  "author": "Noel",
+  "license": "ISC",
+  "dependencies": {
+    "typescript": "^5.1.3"
+  }
+}
